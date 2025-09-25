@@ -1,0 +1,18 @@
+streamlit
+requests
+python-dotenv
+Pillow
+python-magic
+moviepy
+opencv-python
+streamlit-drawable-canvas==0.9.3
+
+# For LTX-Video
+torch>=2.0.0
+torchvision
+transformers>=4.30.0
+diffusers
+accelerate
+safetensors
+fal
+fal-client
